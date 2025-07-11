@@ -16,12 +16,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Eric Encinger from the USA 🇺🇸</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
